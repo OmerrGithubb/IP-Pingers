@@ -1,2 +1,2 @@
 # IP-Pingers
-Collection of IP Pingers
+A collection of IP Pingers
